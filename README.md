@@ -10,7 +10,7 @@ catboost             0.41537           0.50149
 
 kfold= 5
 
-   model  mean_train_logloss  mean_val_logloss  
+   model  mean_train_logloss  mean_val_logloss
  xgboost             0.16188           0.46197
 catboost             0.41005           0.50501
 lightgbm             0.05903           0.50676
